@@ -102,8 +102,8 @@ label{
   justify-content: center;
   align-items: center;
   width: 70%;
-  height: 1000px;
-  margin: 50px auto;
+  height: 100%;
+  margin: 30px auto;
   padding: 5px;
   overflow: auto;
   display: none;
