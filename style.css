@@ -1,4 +1,4 @@
-﻿@font-face{
+@font-face{
 	font-family: 'pfont';
 	src: url('pixel.ttf') format('truetype');
 }
@@ -99,11 +99,12 @@ label{
   margin: auto;
   display: flex;
   flex-direction: column;
+  position: relative;
   justify-content: center;
   align-items: center;
   width: 70%;
   height: 600px;
-  margin: 30px auto;
+  margin: 50px auto;
   padding: 5px;
   display: none;
 }
